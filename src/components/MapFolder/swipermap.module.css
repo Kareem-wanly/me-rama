@@ -1,0 +1,8 @@
+.swiper_container {
+    height: 168px;
+    padding-left: 55px;
+    padding-right: 20px;
+}
+.swiper_slide{
+    margin-left: 20px !important;
+}
